@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254069870613",
+    "project_id": "firecord0",
+    "storage_bucket": "firecord0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254069870613:android:9e2fea9da9ecc587c63e1c",
+        "android_client_info": {
+          "package_name": "chitu.chitu.firecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254069870613-bmnnlh9o9v9at4ku8ovokr9gels56k6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaNzwy65WKYJafg-MAv12FGwI0BaMmpTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254069870613-bmnnlh9o9v9at4ku8ovokr9gels56k6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
